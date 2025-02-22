@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 long long int largest_prime_factor(long long int n = 600851475143) {
